@@ -1,0 +1,40 @@
+App
+
+This app shows live scores from Scotland and Denmar along with general information.
+
+Tag
+
+"Giving you the best information on Scotland and Danish top flight"
+
+
+Stories
+
+As a user, I should be able to "Create an Account"
+As a user, I should be able to "Login"
+As a user, I should be able to "Create a Profile"
+As a user, I should be able to "Save my favorite team"
+As a user, I should be able to "See all the next games of my favourite team"
+As a user, I should be able to "See all the next games in my favourite teams league"
+As a user, I should be able to "Type in the input box any team and get their next fixture"
+As a user, I should be able to "See which team is most likely to win the this next fixture"
+As a user, I should be able to "See the odds on this result"
+As a user, I should be able to "Place a bet easily"
+As a user, I should be able to "See the historical fixtures and data which leads to this result"
+As a user, I should be able to "Share this with my Friends"
+As a user, I should be able to "Invite my friends to this site"
+As a user, I should be able to "Save my favorite team for next time"
+As a user, I should be able to "See historical correctly predicted results"
+
+
+MVP
+
+As a user, I should be able to "Create and account / Login"
+As a user, I should be able to "See the info and live results in Scotland and Denmark"
+As a user, I should be able to "Star my favourite team for ease next time"
+
+Screens
+
+Screen for signing in or signing up
+Screen for showing all available teams
+Screen for showing team with live score and applicable data
+
